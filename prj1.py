@@ -1,0 +1,6 @@
+name = input('Siapa namamu? ')
+print('Halo ' + name )
+color = input('Apa warna fav mu ' + name)
+print(' ternyata warna fav '  + name + color)
+color2 = input('adakah fav warna selain ' + color)
+print('ternyata fav warna  lainnya '+ name + color2)
